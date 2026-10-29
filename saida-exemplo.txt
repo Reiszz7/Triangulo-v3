@@ -1,0 +1,5 @@
+Enter the measures of triangle X:
+Enter the measures of triangle Y:
+Triangle X area: 9.921567416492215
+Triangle Y area: 26.832815729997478
+Larger area: Y
